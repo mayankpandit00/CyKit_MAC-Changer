@@ -3,7 +3,7 @@
 A pthon program in cybersecurity kit series that changes the MAC address of a given interface with a new address.
 
 ### Requirements :
-Linux distro (preferably Kali Linux), Python 3, terminal or any IDE (pycharm)
+Linux distro (preferably Kali Linux), Python 3, terminal or any IDE (vscode or pycharm)
 
 ### Introduction : 
 
